@@ -1,5 +1,4 @@
-# ATS API Candidate
-PDF CV Content Extractor
+# PDF CV Content Extractor
 
 Automatically extract structured information from PDFs such as Education, Experience, Skills, and Personal Details using layout-aware NLP and a fine-tuned spaCy model.
 
