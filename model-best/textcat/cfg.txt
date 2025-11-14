@@ -1,0 +1,19 @@
+{
+  "labels":[
+    "country",
+    "phone",
+    "soft_skills",
+    "education",
+    "projects",
+    "email",
+    "technical_skills",
+    "name",
+    "internships",
+    "languages",
+    "experience",
+    "certifications",
+    "profile"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
